@@ -74,7 +74,7 @@ p{
 #third-first{
     padding-left: 9%;
     padding-top: 5%;
-    background-image: url(shape-1.png);
+    background-image: url(images/shape-1.png);
     background-size: 50%;
     background-repeat: no-repeat;
     background-position-x:50px;
@@ -96,7 +96,7 @@ p{
     width: 55%;
 }
 #fourth-second{
-    background-image: url(shape-1.png);
+    background-image: url(images/shape-1.png);
     background-repeat: no-repeat; 
     background-size: 45%;
     background-position-x: 80%;
