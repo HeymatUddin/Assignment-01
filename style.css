@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+#first-sec{
+    display: flex;
+    background-color: rgb(146, 214, 216);"
+}
+h1{
+    font-size: 50px;
+}
+#first-first{
+    width: 45%;
+    padding-left: 80px;
+    padding-top: 80px;
+}
+#border{
+    border-left: 5px solid;
+    border-image: linear-gradient(blue,violet);
+    border-image-slice: 1;
+    padding-left: 10px;
+}
+p{
+    text-align: justify;
+}
+.link{
+    background-color: rgb(133, 102, 245);
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#second-sec{
+    background-color: rgb(231, 231, 231);
+    padding-bottom: 50px;
+}
+#second-first{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.illus-image{
+    height: 100px;
+}
+.second-second{
+    border-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#second-second-first{
+    background-color: rgb(230, 248, 255); 
+    width:100%;
+}
+#second-second-second{
+    margin-left:2%;
+    background-color: rgb(255, 230, 254);
+    width:100%;
+}
+#second-second-third{
+    margin-left:2%; 
+    background-color: rgb(255, 255, 230); 
+    width:100%;
+}
+#third-sec{
+    display: flex;
+    background-color: rgb(204, 164, 157);
+    margin-top: 50px;
+    padding-bottom: 50px;
+}
+#third-first{
+    padding-left: 9%;
+    padding-top: 5%;
+    background-image: url(shape-1.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    background-position-x:50px;
+    background-position-y: 110px;
+}
+#third-second{
+    width: 51%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+#fourth-sec{
+    display: flex;
+    background-color: rgb(179, 187, 231); 
+    padding-top: 5%;
+    margin-top: 50px;
+}
+#fourth-first{
+    margin-left: 10%;
+    width: 55%;
+}
+#fourth-second{
+    background-image: url(shape-1.png);
+    background-repeat: no-repeat; 
+    background-size: 45%;
+    background-position-x: 80%;
+    background-position-y:90%;
+    width:35%;
+    height: 400px;
+    padding-left:0px;
+}
+#fifth-sec{
+background-image: url(nice.png);
+background-size: 50%;
+height: 450px;
+background-repeat: no-repeat;
+background-position-x: 100%;
+margin-top: 50px;
+display: flex;
+}
+#fifth-second{
+    width: 60%; 
+    color: rgb(214, 176, 94);
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    padding-top: 240px;
+    padding-right: 10px;
+}
+.right-align{
+    text-align: right;
+}
+.aling{
+    text-align: center;
+    color: azure;
+}
+footer{
+    background-color: rgb(54, 45, 43);
+    border: 2px solid rgb(54, 45, 43);
+}
